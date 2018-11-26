@@ -9,9 +9,10 @@ My name is Christopher Tolbert, a data scientist. I have the following qualities
 -Mathematics and economics undergrad
 -MBA, specializing in Operations
 -Limited professional DS experience, but continuing to build cool projects
--Sports, music, finance - "What piques my interest?"
+-Sports, music, finance = "What piques my interest?"
 
 ### Who I am
+My curiosity with numbers started early in life. Second grade. Mr. Jackson's class. The big jar of jellybeans that I wanted to win so bad, as long as I guessed the number. I tried to figure out how many rows of jellybeans and how many per row. I didn't win, but I wanted to quantify and enumerate everything around me.
 
 
 
