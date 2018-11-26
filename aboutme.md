@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Christopher Tolbert, a data scientist. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+-Mathematics and economics undergrad
+-MBA, specializing in Operations
+-Limited professional DS experience, but continuing to build cool projects
+-Sports, music, finance - "What piques my interest?"
 
-What else do you need?
+### Who I am
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+### What I have done
